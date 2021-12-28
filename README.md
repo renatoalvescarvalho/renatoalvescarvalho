@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C&link=https://twitter.com/renatoalvescarvalho)](https://twitter.com/renatoalvescarvalho)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:renatoalvescarvalho@gmail.com)](mailto:renatoalvescarvalho@gmail.com)
 
-## <samp>Hello World!</samp> <img src="https://github.com/renatoalvescarvalho/renatoac/blob/master/assets/earth.gif" width="22px">
+## <samp>Hello World!</samp> <img src="https://github.com/renatoalvescarvalho/renatoalvescarvalho/blob/master/assets/earth.gif" width="22px">
 
 <samp>I'm Renato, currently I'm a Software Engineer <img src="https://github.com/renatoalvescarvalho/renatoalvescarvalho/blob/master/assets/developer.gif" width="30px"> 
 with over 10 years of experience, 7 of which in the tourism segment.</samp>
