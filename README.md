@@ -10,14 +10,14 @@
 ## <samp>Hello World!</samp> <img src="https://github.com/renatoalvescarvalho/renatoac/blob/master/assets/earth.gif" width="22px">
 
 <samp>I'm Renato, currently I'm a Software Engineer <img src="https://github.com/renatoalvescarvalho/renatoalvescarvalho/blob/master/assets/developer.gif" width="30px"> 
-with over 10 years of experience, 7 of which in the tourism segment.
+with over 10 years of experience, 7 of which in the tourism segment.</samp>
 
-In my current I develop and analyze the integrations of international hospitality in the CVC group.
-I work daily with .NET, Java, Oracle PL and Oracle SOA Suite technologies.
+<samp>In my current I develop and analyze the integrations of international hospitality in the CVC group.
+I work daily with .NET, Java, Oracle PL and Oracle SOA Suite technologies.</samp>
 
-In my previous experiences I also worked with JQuery, Javascript, NodeJS and AngularJS.
+<samp>In my previous experiences I also worked with JQuery, Javascript, NodeJS and AngularJS.</samp>
 
-Passionate about solving problems with technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
+<samp>Passionate about solving problems with technology and creating different solutions.</samp></samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
 
 <samp>Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
 
