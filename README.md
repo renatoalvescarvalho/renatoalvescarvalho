@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/renatoalvescarvalho/)](https://www.linkedin.com/in/renatoalvescarvalho/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/renatoalvescarvalho)](https://www.instagram.com/renatoalvescarvalho)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C&link=https://twitter.com/renatoalvescarvalho)](https://twitter.com/renatoalvescarvalho)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:murillo.pezzuol@gmail.com)](mailto:murillo.pezzuol@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:renatoalvescarvalho@gmail.com)](mailto:murillo.pezzuol@gmail.com)
 
 ## <samp>Hello World!</samp> <img src="https://github.com/renatoalvescarvalho/renatoac/blob/master/assets/earth.gif" width="22px">
 
