@@ -1,16 +1,17 @@
-### Hi there 👋
+### <samp>Hello World!</samp> 🌎
 
-# <samp>Renato Carvalho</samp><img src="https://github.com/renatoalvescarvalho/renatoalvescarvalho/blob/master/assets/mario_hello_big.gif" width="30px">
+# <samp>Renato Carvalho</samp> 👨‍💻
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/renatoalvescarvalho/)](https://www.linkedin.com/in/renatoalvescarvalho/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/renatoalvescarvalho)](https://www.instagram.com/renatoalvescarvalho)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C&link=https://twitter.com/renatoalvescarvalho)](https://twitter.com/renatoalvescarvalho)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:renatoalvescarvalho@gmail.com)](mailto:renatoalvescarvalho@gmail.com)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/renatoalvescarvalho/)](https://github.com/renatoalvescarvalho)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/renatoalvescarvalho/)](https://www.linkedin.com/in/renatoalvescarvalho/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/renatoalvescarvalho/)](https://www.instagram.com/renatoalvescarvalho/)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511984890603&text=Ol%C3%A1%Renato%20vim%20atrav%C3%A9s%20de%20seu%20perfil%20no%20Github.%20Podemos%20conversar%20%3F)](https://api.whatsapp.com/send?phone=5511984890603&text=Ol%C3%A1%20Renato%20vim%20atrav%C3%A9s%20de%20seu%20perfil%20no%20Github.%20Podemos%20conversar%20%3F)
+[![GMAIL Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:renatoalvescarvalho@gmail.com?subject=Olá%20again)](mailto:renatoalvescarvalho@gmail.com?subject=Ola%20again)
 
-## <samp>Hello World!</samp> <img src="https://github.com/renatoalvescarvalho/renatoalvescarvalho/blob/master/assets/earth.gif" width="22px">
 
-<samp>I'm Renato, currently I'm a Software Engineer <img src="https://github.com/renatoalvescarvalho/renatoalvescarvalho/blob/master/assets/developer.gif" width="30px"> 
-with over 10 years of experience, 7 of which in the tourism segment.</samp>
+## About Me :memo:
+
+<samp>I'm Renato, currently I'm a Software Engineer with over 10 years of experience, 7 of which in the tourism segment.</samp>
 
 <samp>In my current I develop and analyze the integrations of international hospitality in the CVC group.
 I work daily with .NET, Java, Oracle PL and Oracle SOA Suite technologies.</samp>
@@ -25,6 +26,23 @@ I work daily with .NET, Java, Oracle PL and Oracle SOA Suite technologies.</samp
 - ✈️ &nbsp; <samp>I love to travel and get to know new places and cultures.</samp>
 - 🎾 &nbsp; <samp>Passionate about tennis.</samp>
 - 👨‍🎓 &nbsp; <samp>My academic life.[__here__](https://github.com/renatoalvescarvalho/list-of-courses-certifications)</samp>
+
+
+## knowledge
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PL-SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+[![Android Studio Badge](https://img.shields.io/badge/Android_Studio-31c111?style=for-the-badge&logo=android&logoColor=white&link=https://www.docker.com/)](https://developer.android.com/studio)
+
+
+<br>
+<br>
+<br>
 
 ---
 
