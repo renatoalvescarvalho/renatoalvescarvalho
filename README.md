@@ -22,10 +22,8 @@ I work daily with .NET, Java, Oracle PL and Oracle SOA Suite technologies.</samp
 
 <samp>Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
 
-- 🏡 &nbsp; <samp>I love being with my family and friends, they are everything to me.</samp>
 - ✈️ &nbsp; <samp>I love to travel and get to know new places and cultures.</samp>
 - 🎾 &nbsp; <samp>Passionate about tennis.</samp>
-- 👨‍🎓 &nbsp; <samp>My academic life.[__here__](https://github.com/renatoalvescarvalho/list-of-courses-certifications)</samp>
 
 
 ## knowledge
